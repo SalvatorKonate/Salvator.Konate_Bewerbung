@@ -18,9 +18,14 @@ Salvator.Konate_Bewerbung
       <p><strong>Telefon:</strong> 079 419 65 88</p>
       <p><strong>E-Mail:</strong> salvator.konate@schule-langenthal.ch</p>
       
-      <div class="btn-download">
-        <a href="Pfad/zu/DeinemLebenslauf.pdf" download>Persönliche Daten ⬇️</a>
-      </div>
+     <div class="btn-download">
+  <a href="Salvator.Konate_Lebenslauf.pdf" download>Lebenslauf ⬇️</a>
+</div>
+
+<div class="btn-download">
+  <a href="Salvator.Konate_WochenPlatz.Zeugnis.pdf" download>Zeugnis ⬇️</a>
+</div>
+
       
       <div class="text-ueber-mich">
         <p>Meine Leidenschaft ist Basketball und ich spiele aktuell im Team STB U16. Ich bin **1.92 m groß** und ein Vorteil von mir ist, dass ich es mag, **exakt** zu arbeiten und sehr **vielfältig** bin. Ich schätze Abwechslung im Job und setze mich engagiert dafür ein, in allem, was ich tue, mein Bestes zu geben.</p>
