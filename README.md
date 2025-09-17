@@ -28,7 +28,7 @@
   <main>
     <section class="about">
       <h2>Über mich</h2>
-      <p>Ich bin anders als die anderen: Meine Leidenschaft ist Basketball und ich spiele aktuell im Team STB U16. Mit meinen 1.92 m habe ich einen Vorteil auf dem Spielfeld. Ich arbeite gern exakt, bin vielseitig und mag Abwechslung im Job. Dadurch kann ich mich flexibel auf verschiedene Aufgaben einstellen.</p>
+      <p>Meine Leidenschaft ist Basketball und ich spiele aktuell im Team STB U16. Mit meinen 1.92 m habe ich einen Vorteil auf dem Spielfeld. Ich arbeite gern exakt, bin vielseitig und mag Abwechslung im Job. Dadurch kann ich mich flexibel auf verschiedene Aufgaben einstellen.</p>
       <p>Danke für Ihre Aufmerksamkeit. Ich würde mich sehr über eine positive Antwort freuen!</p>
       <p>Mit freundlichen Grüßen,<br>Salvator Konate</p>
     </section>
