@@ -23,7 +23,7 @@ Salvator.Konate_Bewerbung
       </div>
       
       <div class="text-ueber-mich">
-        <p>Ich bin anders als die anderen: Meine Leidenschaft ist Basketball und ich spiele aktuell im Team STB U16. Ich bin **1.92 m groß** und ein Vorteil von mir ist, dass ich es mag, **exakt** zu arbeiten und sehr **vielfältig** bin. Ich schätze Abwechslung im Job und setze mich engagiert dafür ein, in allem, was ich tue, mein Bestes zu geben.</p>
+        <p>Meine Leidenschaft ist Basketball und ich spiele aktuell im Team STB U16. Ich bin **1.92 m groß** und ein Vorteil von mir ist, dass ich es mag, **exakt** zu arbeiten und sehr **vielfältig** bin. Ich schätze Abwechslung im Job und setze mich engagiert dafür ein, in allem, was ich tue, mein Bestes zu geben.</p>
       </div>
       
       <div class="abschluss">
