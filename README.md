@@ -8,11 +8,9 @@
 </head>
 <body>
   <header class="hero">
+    <div class="overlay"></div>
     <div class="left">
-      <!-- Roter Balken -->
       <div class="red-bar"></div>
-
-      <!-- Text daneben -->
       <div class="info">
         <h1>SALVATOR KONATE</h1>
         <p>📞 079 419 65 88</p>
